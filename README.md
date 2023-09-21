@@ -1,4 +1,4 @@
-  # Gerador de Senhas
+  <h1 align="center">Gerador de Senhas</h1>
 
   Projeto __Gerador de Senhas__, para auxiliar usuários na hora de criar uma senha segura.
   Projeto pessoal, para colocar em prática os conhecimentos adquiridos.
